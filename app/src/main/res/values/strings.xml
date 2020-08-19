@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pilkarzyki Teams</string>
+    <string name="wpisz_graczy">Piłkarzyki 2vs2! Losowanie drużyn!</string>
+    <string name="textView">Piłkarzyki 2v2! Wpisz graczy!</string>
+    <string name="textview">Gracz1</string>
+    <string name="textview2">Gracz2</string>
+    <string name="textView3">Gracz3</string>
+    <string name="textview4">Gracz4</string>
+    <string name="pilkarzyki">image</string>
+    <string name="czerowny">imageCzerwony</string>
+    <string name="zolty">imageZolty</string>
+    <string name="atak">Atak</string>
+    <string name="atak2">Atak</string>
+    <string name="obrona1">Obrona</string>
+    <string name="obrona2">Obrona</string>
+</resources>
