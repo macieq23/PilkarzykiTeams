@@ -42,7 +42,7 @@
         android:fontFamily="sans-serif-black"
         android:gravity="top|center"
         android:text="@string/atak"
-        android:textColor="#FFFFFF"
+        android:textColor="#000000"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

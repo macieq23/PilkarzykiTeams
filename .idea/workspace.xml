@@ -6,7 +6,15 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="944fad9e-d323-4998-9e58-9e25638decaf" name="Default Changelist" comment="" />
+    <list default="true" id="944fad9e-d323-4998-9e58-9e25638decaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_2.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +147,19 @@
       <option name="presentableId" value="Default" />
       <updated>1596733131363</updated>
     </task>
+    <task id="LOCAL-00001" summary="color changing">
+      <created>1597855666885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597855666885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="color changing" />
+    <option name="LAST_COMMIT_MESSAGE" value="color changing" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1167" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1596819317589">
@@ -162,6 +182,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="818" y="333" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596899435939" />
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1597855665332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597855665332" />
     <state x="1077" y="247" key="FileChooserDialogImpl" timestamp="1597167421983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,10 +194,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597853775792" />
-    <state x="822" y="413" key="Github.ShareDialog" timestamp="1597854828153">
+    <state x="822" y="413" key="Github.ShareDialog" timestamp="1597855280166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="822" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597854828153" />
+    <state x="822" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597855280166" />
+    <state x="677" y="225" key="Github.UntrackedFilesDialog" timestamp="1597855290185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597855290185" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597855713531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597855713531" />
     <state x="1059" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1597163262774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
